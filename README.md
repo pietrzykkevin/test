@@ -19,3 +19,4 @@
 	git merge addtoRM
     - push file to origin
 	git push origin master
+3. add using website
