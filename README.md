@@ -1,7 +1,7 @@
 # test
 1. add repository on git
 2.  - First i cloned this repository using comand:
-	git clone https://github.com/pietrzykkevin/test mytest
+	git clone remote_location mytest
     - changed directory
 	cd  mytest
     - added branch and changed to it
